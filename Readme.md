@@ -8,7 +8,11 @@ Question and answer below are based on the trace file tcp-ethereal-trace-1 in in
 ---
 Answer the following questions for the TCP segments:
 ## **1. What is the IP address and TCP port number used by your client computer (source) to transfer the file to gaia.cs.umass.edu? (10%)**
+<<<<<<< HEAD
 ![Figure 1](https://github.com/infans4/1224800010_Muhammad-Infan-Tri-Andhika_UAS-Komunikasi-dan-Jaringan-Komputer-2024/blob/main/assets/Picture%201.png)
+=======
+![Figure 1](\assets\Picture 1.png)
+>>>>>>> 7921a1389be1a4ff7495b7212e75fcb95fa03694
 Answer:
 Based on the figure above, the first client computer initiation IP Address mean client itself. So the IP address is 192.168.1.102 and the port of the TCP is 1161.
 
